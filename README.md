@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -36,4 +38,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
