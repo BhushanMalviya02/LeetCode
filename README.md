@@ -12,6 +12,7 @@
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
