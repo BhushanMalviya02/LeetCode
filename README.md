@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
