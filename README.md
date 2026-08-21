@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/BhushanMalviya02/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -80,6 +81,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
@@ -94,4 +96,20 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
