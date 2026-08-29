@@ -1,3 +1,11 @@
+// problem was in checking how many times drop is there 
+// for it to be sorted 1 drop is allowed
+// more than 1 drops means it is not sorted
+
+// most imp thing is to rmember to check last and first element for drop 
+
+
+
 class Solution {
 public:
     bool check(vector<int>& nums) {
