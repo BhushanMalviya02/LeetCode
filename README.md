@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/BhushanMalviya02/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhushanMalviya02/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
