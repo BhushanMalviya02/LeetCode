@@ -25,20 +25,7 @@ public:
         // return s;
 
 
-        int reader =1;
-        int writer =0;
-
-        while(reader < nums.size()){
-            if(nums[reader] == nums[reader -1]){
-                reader++;
-            }else{
-                writer++;
-                nums[writer] = nums[reader];
-                reader++;
-            }
-        }
-        writer++;
-        return writer;
+        // 
 
         // for(int i =0;i<nums.size()-1;i++){
         //     while(nums[reader] == nums[writer]){
@@ -52,5 +39,61 @@ public:
 
         // return writer;
         
+
+
+        // int reader =1;
+        // int writer =0;
+
+        // while(reader < nums.size()){
+        //     if(nums[reader] == nums[reader -1]){
+        //         reader++;
+        //     }else{
+        //         writer++;
+        //         nums[writer] = nums[reader];
+        //         reader++;
+        //     }
+        // }
+        // writer++;
+        // return writer;
+
+
+
+
+
+
+
+
+
+
+
+        int writer =0;
+        int reader = 1;
+
+        while(reader < nums.size()){
+            if(nums[reader] == nums[writer]){
+                reader++;
+            }else{
+                writer++;
+                swap(nums[reader],nums[writer]);
+                reader++;
+                // writer++;
+            }
+        }
+
+        writer++;
+        return writer;
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 };
