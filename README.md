@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/0338-counting-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
