@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0027-remove-element) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhushanMalviya02/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
