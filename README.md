@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
+| [0728-self-dividing-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
