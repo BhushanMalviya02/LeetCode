@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhushanMalviya02/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -151,5 +153,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
