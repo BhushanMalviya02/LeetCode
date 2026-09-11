@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhushanMalviya02/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 ## Quicksort
 |  |
 | ------- |
@@ -154,5 +155,6 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
+| [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
