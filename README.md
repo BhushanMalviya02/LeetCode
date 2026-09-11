@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/BhushanMalviya02/LeetCode/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
