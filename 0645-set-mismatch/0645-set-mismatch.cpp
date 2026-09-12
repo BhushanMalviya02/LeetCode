@@ -62,11 +62,12 @@ for(auto x : nums){
     mpp[x]++;
 }
 
-for(int i =1;i<=size;i++){
-    if(!mpp.contains(i)){
-        miss = i;
+for(int i =0;i<size;i++){
+    if(!mpp.contains(temp)){
+        miss = temp;
         break;
     }
+    temp++;
 }
 
 return {rep,miss};
