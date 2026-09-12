@@ -49,29 +49,48 @@ public:
 
 
 
-int miss = 0;
-int rep = 0;
-int temp = 1;
-int size = nums.size();
-unordered_map<int,int>mpp;
+// int miss = 0;
+// int rep = 0;
+// int temp = 1;
+// int size = nums.size();
+// unordered_map<int,int>mpp;
 
-for(auto x : nums){
-    if(mpp.contains(x)){
-        rep = x;
+// for(auto x : nums){
+//     if(mpp.contains(x)){
+//         rep = x;
+//     }
+//     mpp[x]++;
+// }
+
+// for(int i =0;i<size;i++){
+//     if(!mpp.contains(temp)){
+//         miss = temp;
+//         break;
+//     }
+//     temp++;
+// }
+
+// return {rep,miss};
+
+
+int duplicate =-1;
+for(int i =0;i<nums.size();i++){
+    int idx = abs(nums[i]) -1;
+
+    if(nums[idx] < 0){
+        duplicate = idx+1;
+
+    }else{
+        nums[idx] = -nums[idx];
     }
-    mpp[x]++;
 }
 
-for(int i =0;i<size;i++){
-    if(!mpp.contains(temp)){
-        miss = temp;
-        break;
+int missing =-1;
+for(int i =0;i<nums.size();i++){
+    if(nums[i] > 0){
+        missing = i+1;
     }
-    temp++;
 }
-
-return {rep,miss};
-
-
+return {duplicate,missing};
     }
 };
