@@ -168,9 +168,30 @@
 | [0520-detect-capital](https://github.com/BhushanMalviya02/LeetCode/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
