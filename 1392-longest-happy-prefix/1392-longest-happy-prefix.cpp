@@ -1,7 +1,7 @@
 class Solution {
 public:
     string longestPrefix(string s) {
-        int n = s.length();
+    int n = s.length();
      vector<int> lps(n, 0);
      
      int len=0;
@@ -25,5 +25,7 @@ public:
         }
      }
      return s.substr(0, lps[n - 1]);
+
+    //  substr(a,b) means start from idx a and extract exaclty b chars 
     }
 };
