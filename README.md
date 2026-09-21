@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhushanMalviya02/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -105,6 +106,7 @@
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
