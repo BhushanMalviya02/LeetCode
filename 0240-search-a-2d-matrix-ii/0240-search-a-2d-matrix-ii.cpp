@@ -21,20 +21,34 @@ public:
 //             }
 //             return false;
 //         }
+
+
+
+
+
+
+
+
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
 
         
-        for(int i =0;i<matrix.size();i++){
-            for(int j =0;j<matrix[i].size();j++){
-                if(matrix[i][j] == target){
-                    return true;
-                }
-            }
-        }
+    //     for(int i =0;i<matrix.size();i++){
+    //         for(int j =0;j<matrix[i].size();j++){
+    //             if(matrix[i][j] == target){
+    //                 return true;
+    //             }
+    //         }
+    //     }
 
-        return false;
+    //     return false;
 
         
+
+
+
+
+
+
 
         // int startr =0;;
         // int endr = matrix.size() -1;
@@ -56,5 +70,28 @@ public:
             
         // }
         // return false;
+
+
+int r = matrix.size()-1;
+int c = 0;
+
+ int sz = matrix[0].size();
+
+while(r >= 0 && c < sz){
+
+    if(target > matrix[r][c]){
+        c++;
+    }else if(target < matrix[r][c]){
+        r--;
+
+    }else{
+        return true;
+    }
+}
+
+return false;
+
+
+        
     }
 };
