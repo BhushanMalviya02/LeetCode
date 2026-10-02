@@ -152,6 +152,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3498-reverse-degree-of-a-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
