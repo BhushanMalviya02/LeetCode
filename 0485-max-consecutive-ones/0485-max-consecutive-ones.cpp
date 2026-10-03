@@ -64,9 +64,9 @@ public:
 
 
 
-        long long count =0;
-        long long res =0;
-        int i =0;
+        // long long count =0;
+        // long long res =0;
+        // int i =0;
 
         // for(int i =0;i<nums.size();i++){
         //     while(nums[i]==0){
@@ -82,29 +82,48 @@ public:
 
 
         // }
-        while(i<nums.size()){
-            while(i<nums.size() and nums[i] == 0){
-                i++;
-            }
-            while(i<nums.size() and nums[i] == 1 ){
-                count++;
+//         while(i<nums.size()){
+//             while(i<nums.size() and nums[i] == 0){
+//                 i++;
+//             }
+//             while(i<nums.size() and nums[i] == 1 ){
+//                 count++;
 
-                i++;
-            }
-            res = max(res,count);
-            count =0;
-        }
+//                 i++;
+//             }
+//             res = max(res,count);
+//             count =0;
+//         }
+
+
+
+// return res;
+
+
+
+long long res =0;
+long long count =0;
+
+int i =0;
+
+while(i < nums.size()){
+    while(i < nums.size() and nums[i] == 0){
+        i++;
+    }
+    while(i < nums.size() and nums[i] == 1){
+        count++;
+        i++;
+    }
+
+    res = max(res,count);
+    count =0;
+}
+
+
 
 
 
 return res;
-
-
-
-
-
-
-
 
 
 
