@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +67,7 @@
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
@@ -187,6 +190,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -208,6 +212,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Rolling Hash
 |  |
@@ -245,4 +250,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
