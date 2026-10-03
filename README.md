@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -74,6 +75,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BhushanMalviya02/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Rolling Hash
 |  |
