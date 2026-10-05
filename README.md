@@ -58,6 +58,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/BhushanMalviya02/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -213,6 +214,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/BhushanMalviya02/LeetCode/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0859-buddy-strings) |
