@@ -54,6 +54,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhushanMalviya02/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Queue
 |  |
 | ------- |
