@@ -175,6 +175,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BhushanMalviya02/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0728-self-dividing-numbers) |
