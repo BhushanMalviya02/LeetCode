@@ -48,6 +48,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhushanMalviya02/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -186,6 +187,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Queue
