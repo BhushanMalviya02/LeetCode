@@ -94,6 +94,7 @@
 | [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [3536-maximum-product-of-two-digits](https://github.com/BhushanMalviya02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
@@ -188,6 +189,7 @@
 | [0728-self-dividing-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BhushanMalviya02/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/BhushanMalviya02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BhushanMalviya02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/BhushanMalviya02/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
