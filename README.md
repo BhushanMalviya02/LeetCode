@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -240,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/BhushanMalviya02/LeetCode/tree/master/0520-detect-capital) |
@@ -308,5 +310,6 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
