@@ -41,6 +41,7 @@
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/BhushanMalviya02/LeetCode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -239,6 +240,7 @@
 | [0074-search-a-2d-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
 ## String
 |  |
 | ------- |
