@@ -157,6 +157,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/BhushanMalviya02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BhushanMalviya02/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -201,6 +202,7 @@
 | [0009-palindrome-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/BhushanMalviya02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BhushanMalviya02/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0728-self-dividing-numbers) |
