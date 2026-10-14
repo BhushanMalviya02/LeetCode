@@ -8,9 +8,9 @@ public:
             long long mid = (start+end)/2;
 
             if(mid*mid > num){
-                end--;
+                end = mid-1;
             }else if(mid*mid < num){
-                start++;
+                start = mid+1;
             }else{
                 return true;
             }
