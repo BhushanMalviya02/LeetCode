@@ -42,6 +42,7 @@
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/BhushanMalviya02/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@
 | [0283-move-zeroes](https://github.com/BhushanMalviya02/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -166,6 +168,7 @@
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Pigeonhole Principle
 |  |
@@ -183,6 +186,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -241,6 +245,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
