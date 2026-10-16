@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/BhushanMalviya02/LeetCode/tree/master/0724-find-pivot-index) |
@@ -99,6 +100,7 @@
 | [0414-third-maximum-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/BhushanMalviya02/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@
 | [0283-move-zeroes](https://github.com/BhushanMalviya02/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +165,7 @@
 | [0367-valid-perfect-square](https://github.com/BhushanMalviya02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BhushanMalviya02/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -191,6 +195,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -233,6 +238,7 @@
 | [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/BhushanMalviya02/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
