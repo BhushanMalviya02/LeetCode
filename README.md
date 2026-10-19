@@ -57,6 +57,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhushanMalviya02/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -109,6 +110,7 @@
 | [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhushanMalviya02/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/3731-find-missing-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -173,6 +175,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Bit Manipulation
 |  |
