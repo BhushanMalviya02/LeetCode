@@ -60,6 +60,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2942-find-words-containing-character](https://github.com/BhushanMalviya02/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/BhushanMalviya02/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhushanMalviya02/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -284,6 +285,7 @@
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/BhushanMalviya02/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2942-find-words-containing-character](https://github.com/BhushanMalviya02/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
