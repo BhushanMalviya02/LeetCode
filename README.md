@@ -49,6 +49,7 @@
 | [0875-koko-eating-bananas](https://github.com/BhushanMalviya02/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/BhushanMalviya02/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/BhushanMalviya02/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/BhushanMalviya02/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BhushanMalviya02/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/BhushanMalviya02/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -251,6 +252,7 @@
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/BhushanMalviya02/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/BhushanMalviya02/LeetCode/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
