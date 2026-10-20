@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/BhushanMalviya02/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/BhushanMalviya02/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/BhushanMalviya02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -104,6 +105,7 @@
 | [0347-top-k-frequent-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0414-third-maximum-number) |
+| [0502-ipo](https://github.com/BhushanMalviya02/LeetCode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -248,6 +250,7 @@
 | [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/BhushanMalviya02/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/0767-reorganize-string) |
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/BhushanMalviya02/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/0767-reorganize-string) |
 ## Prefix Sum
