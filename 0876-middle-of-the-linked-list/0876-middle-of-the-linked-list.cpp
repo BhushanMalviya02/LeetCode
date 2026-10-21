@@ -13,40 +13,56 @@ public:
     ListNode* middleNode(ListNode* head) {
         
 
-        int len =0;
+        // int len =0;
 
-        ListNode* temp = head;
+        // ListNode* temp = head;
 
-        while(temp != NULL ){
-            len++;
-            temp = temp->next;
-        }
-        // int mid=0;
-
-        // if(len %2 == 0){
-
-        //     mid = len/2;
-            
-        // }else{
-        //     mid = (len/2);
+        // while(temp != NULL ){
+        //     len++;
+        //     temp = temp->next;
         // }
+        // // int mid=0;
 
-        int mid = (0+ len)/2;
-        temp = head;
+        // // if(len %2 == 0){
 
-        // int nc = 0;
-        for(int i=0;i<mid;i++){
+        // //     mid = len/2;
+            
+        // // }else{
+        // //     mid = (len/2);
+        // // }
 
-            temp= temp->next;
+        // int mid = (0+ len)/2;
+        // temp = head;
+
+        // // int nc = 0;
+        // for(int i=0;i<mid;i++){
+
+        //     temp= temp->next;
 
             
-        }
-        return temp;
+        // }
+        // return temp;
 
 
 
 
-        // cout<<len;
-        // return head;
+        // // cout<<len;
+        // // return head;
+
+
+
+            ListNode* slow = head;
+            ListNode* fast = head;
+
+            while( fast != NULL and fast->next != NULL){
+
+                slow = slow->next;
+                fast = fast->next->next;
+
+                
+
+            }
+return slow;
+        
     }
 };
