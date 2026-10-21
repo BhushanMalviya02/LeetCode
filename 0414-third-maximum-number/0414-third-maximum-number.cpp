@@ -1,57 +1,30 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        // priority_queue<int, vector<int>, greater<int>> pq;
-        // unordered_set<int> in_heap;
-        // if (nums.size() == 1) {
-        //     return nums[0];
-        // }
-        // if (nums.size() == 2) {
-        //     if (nums[0] > nums[1]) {
-        //         return nums[0];
-        //     }
+        long long first = LONG_MIN;  //LONG_MIN
+        long long second= LONG_MIN;
+        long long third = LONG_MIN;
+        for(auto x : nums){
+            if(x==  first or x == second or x==third){
+                continue;
+            }
 
-        //     return nums[1];
-        // }
-
-    //     for (int num : nums) {
-    //         if(in_heap.count(num)) {
-    //             continue;
-    //         }
-
-    //         pq.push(num);
-    //         in_heap.insert(num);
-
-    //         if(pq.size() > 3) {
-    //             in_heap.erase(pq.top());
-    //             pq.pop();
-    //         }
-    //     }
-
-    //     if (pq.size() < 3) {
-    //         while (pq.size() > 1) {
-    //             pq.pop();
-    //         }
-    //     }
-    //     return pq.top();
-    
-    set<int> s;
-
-    for(auto num : nums){
-        s.insert(num);
-
-        if(s.size() > 3){
-            s.erase(s.begin());
-
+            if(x>first){
+                third = second;
+                second = first;
+                first = x;
+            }else if(x > second){
+                third = second;
+                second = x;
+            }else if(x>third){
+                third = x;
+            }
         }
-    }
 
+        if(third == LONG_MIN){
+            return first;
+        }
 
-    if(s.size() == 3){
-        return *s.begin();
-    }
-
-    return *s.rbegin();
-    
+        return third;
     }
 };
