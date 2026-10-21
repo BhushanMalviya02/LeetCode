@@ -59,6 +59,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BhushanMalviya02/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhushanMalviya02/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -286,6 +287,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
 | ------- |
