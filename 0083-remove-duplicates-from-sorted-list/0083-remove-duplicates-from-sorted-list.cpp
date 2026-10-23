@@ -21,10 +21,9 @@ public:
                     j = j->next;
                 }
                 i->next = j;
-                i = j;
-            } else {
-                i = j;
             }
+            i = j;
+
         }
 
 
