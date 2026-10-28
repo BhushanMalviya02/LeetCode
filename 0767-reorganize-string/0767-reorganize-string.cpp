@@ -2,76 +2,129 @@ class Solution {
 public:
     string reorganizeString(string s) {
 
+//         unordered_map<char,int>mpp;
+
+//         priority_queue<pair<int,char>>pq;
+
+//         string res= "";
+
+//         for(auto x : s){
+//             mpp[x]++;
+//         }
+
+
+//         for(auto i : mpp){
+
+//             int freq = i.second;
+//             char ch = i.first;
+//             pair<int,char>curr = {freq,ch};
+
+//             pq.push(curr);
+
+//         }
+
+//         int jute = 0;
+
+//         while(!pq.empty()){
+
+//             pair<int,char>p = pq.top();
+//             pq.pop();
+            
+
+//             if(res.size() == 0 or res[jute -1] != p.second ){
+                
+//                 res+= p.second;
+//                 jute++;
+
+//                 p.first--;
+
+//                 if(p.first > 0){
+//                     pq.push(p);
+//                 }
+                
+//                 // jute
+//             }else{
+//                 if(pq.empty()){
+//                     return "";
+//                 }
+
+                
+
+//                 pair<int,char>p1 = pq.top();
+//                 pq.pop();
+
+//                 res+= p1.second;
+
+//                 jute++;
+//                 p1.first--;
+//                 if(p1.first > 0){
+//                     pq.push(p1);
+//                 }
+
+//                 pq.push(p);
+
+
+
+
+
+//             }
+
+//         }
+
+// return res;
+
         unordered_map<char,int>mpp;
 
         priority_queue<pair<int,char>>pq;
 
-        string res= "";
+        string res = "";
 
         for(auto x : s){
             mpp[x]++;
         }
 
-
         for(auto i : mpp){
-
+            char element = i.first;
             int freq = i.second;
-            char ch = i.first;
-            pair<int,char>curr = {freq,ch};
+
+            pair<int,char>curr = {freq,element};
 
             pq.push(curr);
-
         }
 
-        int jute = 0;
-
+        int l = 0;
+        
         while(!pq.empty()){
 
             pair<int,char>p = pq.top();
             pq.pop();
-            
 
-            if(res.size() == 0 or res[jute -1] != p.second ){
-                
+            if(res.size() == 0 or res[l-1] != p.second){
                 res+= p.second;
-                jute++;
-
+                l++;
                 p.first--;
 
                 if(p.first > 0){
                     pq.push(p);
                 }
-                
-                // jute
             }else{
+
                 if(pq.empty()){
                     return "";
                 }
-
-                
 
                 pair<int,char>p1 = pq.top();
                 pq.pop();
 
                 res+= p1.second;
-
-                jute++;
+                l++;
                 p1.first--;
                 if(p1.first > 0){
                     pq.push(p1);
                 }
-
                 pq.push(p);
-
-
-
-
-
             }
-
         }
-
-return res;
-        
+        return res;
     }
 };
