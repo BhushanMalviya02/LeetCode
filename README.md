@@ -85,6 +85,7 @@
 | [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/BhushanMalviya02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhushanMalviya02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/BhushanMalviya02/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/BhushanMalviya02/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -236,6 +238,7 @@
 | [0002-add-two-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BhushanMalviya02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhushanMalviya02/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +268,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/BhushanMalviya02/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/BhushanMalviya02/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/BhushanMalviya02/LeetCode/tree/master/0502-ipo) |
