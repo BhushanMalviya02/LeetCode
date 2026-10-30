@@ -157,6 +157,7 @@
 | [0917-reverse-only-letters](https://github.com/BhushanMalviya02/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/BhushanMalviya02/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhushanMalviya02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -430,6 +431,7 @@
 | [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/BhushanMalviya02/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
