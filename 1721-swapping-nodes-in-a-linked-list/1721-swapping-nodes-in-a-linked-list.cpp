@@ -12,33 +12,60 @@ class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         
+        // ListNode* temp = head;
+
+        // int sz =0;
+
+        // while(temp){
+        //     sz++;
+        //     temp = temp->next;
+
+        // }
+
+        // // int first = k;
+        // int second = sz - k + 1;
+        // temp = head;
+
+        // for(int i =1;i<k;i++){
+        //     temp = temp->next;
+        // }
+        // ListNode* node1 = temp ;
+        // temp = head;
+
+        // for(int i =1;i<second;i++){
+        //     temp = temp->next;
+        // }
+        // ListNode* node2 = temp;
+
+        // swap(node1->val , node2->val);
+
+        // return head;
+
         ListNode* temp = head;
-
         int sz =0;
-
         while(temp){
             sz++;
             temp = temp->next;
-
         }
 
-        // int first = k;
-        int second = sz - k + 1;
-        temp = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
 
         for(int i =1;i<k;i++){
-            temp = temp->next;
+            fast = fast->next;
         }
-        ListNode* node1 = temp ;
-        temp = head;
+        ListNode* c1 = fast;
 
-        for(int i =1;i<second;i++){
-            temp = temp->next;
+        while(fast->next != NULL){
+            fast = fast->next;
+            slow = slow->next;
         }
-        ListNode* node2 = temp;
+        ListNode* c2 = slow;
 
-        swap(node1->val , node2->val);
+        swap(c1->val,c2->val);
 
         return head;
+
     }
 };
