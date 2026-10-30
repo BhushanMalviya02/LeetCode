@@ -45,6 +45,7 @@
 | [0658-find-k-closest-elements](https://github.com/BhushanMalviya02/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/BhushanMalviya02/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/BhushanMalviya02/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/BhushanMalviya02/LeetCode/tree/master/0832-flipping-an-image) |
@@ -94,6 +95,7 @@
 | [0621-task-scheduler](https://github.com/BhushanMalviya02/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/BhushanMalviya02/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/BhushanMalviya02/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/BhushanMalviya02/LeetCode/tree/master/0767-reorganize-string) |
 | [0859-buddy-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0859-buddy-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -352,6 +354,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 | [1392-longest-happy-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
@@ -423,6 +426,7 @@
 | [0206-reverse-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/BhushanMalviya02/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -441,4 +445,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BhushanMalviya02/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/BhushanMalviya02/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
