@@ -170,6 +170,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhushanMalviya02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/BhushanMalviya02/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/BhushanMalviya02/LeetCode/tree/master/0520-detect-capital) |
@@ -462,4 +464,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
