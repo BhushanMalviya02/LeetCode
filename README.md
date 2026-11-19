@@ -182,6 +182,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhushanMalviya02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/BhushanMalviya02/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -325,6 +326,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BhushanMalviya02/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhushanMalviya02/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/BhushanMalviya02/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BhushanMalviya02/LeetCode/tree/master/0242-valid-anagram) |
@@ -474,5 +476,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BhushanMalviya02/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
