@@ -3,9 +3,7 @@ public:
 
     void helper(vector<int>& candidates,int target,int sum,int start ,vector<vector<int>>&res,vector<int>&temp){
 
-        if(sum > target){
-            return;
-        }
+       
         if(sum == target){
             res.push_back(temp);
             return;
@@ -13,6 +11,9 @@ public:
 
         for(int i =start;i<candidates.size();i++){
 
+ if(candidates[start] + sum > target){
+    break;
+}
             if(i > start and candidates[i] == candidates[i-1]){
                 continue;
             }
